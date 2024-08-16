@@ -5,7 +5,7 @@
 
 > This project is a modern web application developed to recreate and enhance a portfolio landing page. Built using Next.js, React, and TypeScript, the application aims to showcase and analyze your web development skills through a well-designed and functional portfolio interface.
 
-### ✨ [Demo](https://mugs-task-cy4yvmkvn-arunvels-projects.vercel.app/)
+### ✨ [Demo](https://mugs-task-tawny.vercel.app/)
 
 ## Install
 
